@@ -1,0 +1,7 @@
+.movielist
+{
+    display: flex;
+    text-align: center;
+    width: 100vh;
+   gap: 10px;
+}

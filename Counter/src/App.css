@@ -1,0 +1,42 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+  background-image: url("https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+}
+.Counter
+{
+  background:none;
+  backdrop-filter: blur(2px);
+  display: flex;
+  border:3px solid rgb(101, 178, 186);
+  box-shadow: 10px 10px 10px grey;
+  height: 10em;
+  width:10em;
+  flex-direction: column;
+  text-align: center;
+  font-weight: 100;
+  font-size: 30px;
+  color: rgb(33, 7, 178);
+}
+button
+{
+  gap: 10px;
+  margin: 10px;
+  border-radius: 20px;
+  height: 30px;
+  font-size: large;
+  background: none;
+  backdrop-filter: blur(0.8px);
+
+}
+button:hover
+{
+  background-color: cadetblue;
+}

@@ -1,0 +1,5 @@
+let props=[
+    {image: "https://occ-0-4486-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRh8uaXgE7ndf2NUETlakDrmVSVswntKv6iCL2c4U3_3Ndv8eNbiHyIHJxE_8oHE8Ork4NP2FTTPGBJCwwaTcKX2EKcGqE5R9znYF699Jk3nsjHih5N5sW_3L1ohHJ7tyxrXmZwmPZA8l01KlYhVjEys0NfRfKyCIO_oOzhWwxPNAWXG9s6dF2zTZhPcLSafQ2G84WvOAhlNvB0kNeUx4-h852wGU0HTo4tuNkNJ8IaKqlp69D-G8n16xDdpvnkECIIRhGdY4ggE4VbglKft56m2BvCrC9pI96HX1EpVSOPJfMvWw0_EcbmcHU1vP3e6Fa0I7Y5pSIvE-4EweJBkzPw-ybjmME3XNZw_-woQ4NU3kEvnCOM.jpg?r=09b"
+     title: "avatar"
+    }
+]
